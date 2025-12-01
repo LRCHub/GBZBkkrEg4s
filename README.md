@@ -1,0 +1,72 @@
+# Karpe – 08:50 MOSCOT & DIOR
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.52] Kan du se litt mer på meg?
+[00:02.35] Jeg fortjener en skål
+[00:04.78] Moscot og Dior
+[00:07.40] De er til deg
+[00:08.79] Hvis du ser litt mer på meg
+[00:10.69] Du må da være stolt
+[00:12.76] Moscot og Dior
+[00:19.76] 
+[00:15.15] Babe, se på meg jeg flyr
+[00:19.40] Ser ut som en million
+[00:21.94] God damn, babe, se på når jeg flyr
+[00:26.91] Babe, se på meg din idiot
+[00:39.41] 
+[00:31.99] Kan jeg lene meg på deg?
+[00:33.85] Jeg har noe mere jeg må
+[00:36.22] Netflix, HBO
+[00:38.53] De er til deg
+[00:39.85] Hvis du ser litt mer på meg
+[00:42.08] Jeg er på TV jeg òg
+[00:43.85] I Moscot og Dior
+[00:51.85] 
+[00:46.59] Babe, se på meg jeg flyr
+[00:50.74] Ser ut som en million
+[00:53.15] God damn, babe, se på når jeg flyr
+[00:58.20] Babe, se på meg din idiot
+[01:10.70] 
+[01:02.89] Ingen putter baby i hjørnet
+[01:06.85] Ingen putter baby i hjørnet
+[01:10.54] Ingen putter baby i hjørnet
+[01:14.51] Ingen putter baby, ingen putter baby i hjørnet
+[01:18.43] Ingen putter baby i hjørnet
+[01:22.46] Ingen putter baby i hjørnet
+[01:26.45] Ingen putter baby i hjørnet
+[01:30.15] Ingen putter baby, ingen putter baby i hjørnet
+[01:53.15] 
+[01:34.81] For en skjennepreken vi fikk
+[01:37.07] For å ikke bukke pent for gjesten
+[01:39.10] Når jeg ser neven din
+[01:40.99] Vet jeg at du ser meg i det minste
+[01:42.87] Snakk morsmålet for din mors tårer
+[01:44.98] Du kjenner vel til skosålen?
+[01:48.37] Du kjenner vel til hva vi gjør for fø deg?
+[02:09.37] 
+[01:50.42] Fra en hooptie til en Audi, yeah yeah
+[01:53.93] A little juling never hurt nobody, yeah yeah
+[01:57.88] Jeg tar gjerne en lompe med ketchup og sennep i
+[02:01.56] Én til meg og én til Arbab, han er ahmedi
+[02:05.05] Og sist jeg så han, var han sjef i en bank
+[02:07.17] Han var on a roll
+[02:08.22] Fenomenalt
+[02:09.26] High five, bro
+[02:10.08] Herlig å gli
+[02:11.16] Ut av landsbyen med et Klæbo-klyv
+[02:13.76] Forex, Western Union
+[02:15.64] Sender penger til broren min
+[02:17.75] Gull i bankboks, her i Norden
+[02:19.60] Inni landsbyen min stacker flusen
+[02:36.10] 
+[02:52.69] Ingen putter baby i hjørnet
+[02:56.64] Ingen putter baby i hjørnet
+[03:00.59] Ingen putter baby i hjørnet
+[03:04.53] Ingen putter baby, ingen putter baby i hjørnet
+[03:08.29] Ingen putter baby i hjørnet
+[03:12.41] Ingen putter baby i hjørnet
+[03:16.16] Ingen putter baby i hjørnet
+[03:19.96] Ingen putter baby, ingen putter baby i hjørnet
+```
