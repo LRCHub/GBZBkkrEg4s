@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "08:50 MOSCOT & DIOR",
+  "base_artist": "Karpe",
+  "createdAt": "2025-12-01T06:47:56.533576Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "08:50 MOSCOT & DIOR",
+      "artist": "Karpe",
+      "has_synced": true,
+      "path": "select/01_08_50_MOSCOT_&_DIOR_Karpe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "08:50",
+      "artist": "BRUT",
+      "has_synced": true,
+      "path": "select/02_08_50_BRUT.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "08. 50 Ways To Leave Your Lover",
+      "artist": "Paul Simon",
+      "has_synced": true,
+      "path": "select/03_08._50_Ways_To_Leave_Your_Lover_Paul_Simon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "08 50 Ways to Leave Your Lover",
+      "artist": "Paul Simon",
+      "has_synced": true,
+      "path": "select/04_08_50_Ways_to_Leave_Your_Lover_Paul_Simon.lrc"
+    }
+  ]
+}
